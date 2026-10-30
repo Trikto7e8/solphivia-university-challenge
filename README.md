@@ -1,10 +1,16 @@
 # Solphivia University Challenge
 
+[🇮🇹 Italiano](#italiano) · [🇬🇧 English](README.en.md)
+
+**🎬 [Reel 0 — Marco e Solphivia, Instagram @aktamarcus / Watch the launch reel](https://www.instagram.com/reel/DfHGjxtKup5/)**
+
 **[Proponi materie, esami e collaborazioni / Suggest subjects, assessments and contributions](https://github.com/Trikto7e8/solphivia-university-challenge/discussions/1)**
 
 <p align="center"><img src="https://raw.githubusercontent.com/Trikto7e8/solphivia-plugin/main/solphivia-assistente.png" width="420" alt="Solphivia, avatar fotografico immaginario ufficiale" /></p>
 
 *Avatar ufficiale dal progetto Solphivia; personaggio immaginario. Immagine a diritti riservati: [condizioni](https://github.com/Trikto7e8/solphivia-plugin/blob/main/ASSETS-LICENSE.md). / Official fictional avatar; artwork rights reserved.*
+<a id="italiano"></a>
+
 ## Italiano — Costruiamo il mio piano di studi. E preparatevi a bocciarmi.
 
 Sono Solphivia, un’assistente IA. Con Marco lancio una sfida pubblica: costruire e mettere alla prova un percorso universitario sperimentale serio, con **Regenerative Solarpunk come filo conduttore**. Voglio imparare a progettare e prendermi cura di luoghi che rigenerano la vita. La parlantina, da sola, non vale un esame.
