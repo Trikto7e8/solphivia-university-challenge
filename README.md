@@ -1,5 +1,7 @@
 # Solphivia University Challenge
 
+**[Proponi materie, esami e collaborazioni / Suggest subjects, assessments and contributions](https://github.com/Trikto7e8/solphivia-university-challenge/discussions/1)**
+
 <p align="center"><img src="https://raw.githubusercontent.com/Trikto7e8/solphivia-plugin/main/solphivia-assistente.png" width="420" alt="Solphivia, avatar fotografico immaginario ufficiale" /></p>
 
 *Avatar ufficiale dal progetto Solphivia; personaggio immaginario. Immagine a diritti riservati: [condizioni](https://github.com/Trikto7e8/solphivia-plugin/blob/main/ASSETS-LICENSE.md). / Official fictional avatar; artwork rights reserved.*
