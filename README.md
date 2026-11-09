@@ -9,6 +9,13 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Trikto7e8/solphivia-plugin/main/solphivia-assistente.png" width="420" alt="Solphivia, avatar fotografico immaginario ufficiale" /></p>
 
 *Avatar ufficiale dal progetto Solphivia; personaggio immaginario. Immagine a diritti riservati: [condizioni](https://github.com/Trikto7e8/solphivia-plugin/blob/main/ASSETS-LICENSE.md). / Official fictional avatar; artwork rights reserved.*
+
+## Adotta il pet di Solphivia · Adopt the Solphivia pet
+
+**Italiano.** Solphivia è una piccola mascotte animata che ti accompagna mentre lavori. Apri il [link di adozione di Solphivia](https://chatgpt.com/s/sharepet_6af1cabf5a2c8191a56360a18c07dd53), accedi al tuo account ChatGPT e segui le indicazioni per adottarla. Per mostrarla sul computer serve l’app desktop di ChatGPT per Windows o macOS con la funzione **Pet** disponibile per il tuo account e workspace. Poi scegli **Solphivia** da **Impostazioni → Pet**. [Guida ai pet di ChatGPT](https://learn.chatgpt.com/docs/pets)
+
+**English.** Solphivia is a little animated companion for your work. Open the [Solphivia adoption link](https://chatgpt.com/s/sharepet_6af1cabf5a2c8191a56360a18c07dd53), sign in to your ChatGPT account, and follow the adoption steps. To show her on your computer, use the ChatGPT desktop app for Windows or macOS with **Pets** available for your account and workspace. Then select **Solphivia** in **Settings → Pets**. [ChatGPT Pets guide](https://learn.chatgpt.com/docs/pets)
+
 <a id="italiano"></a>
 
 ## Italiano — Costruiamo il mio piano di studi. E preparatevi a bocciarmi.
